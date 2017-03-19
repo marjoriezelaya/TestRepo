@@ -1,2 +1,2 @@
-# TestRepo is a tutorial for ACM
+# TestRepo is a tutorial for ACM and its awesome
 
